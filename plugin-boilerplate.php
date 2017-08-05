@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Plugin Boilerplace
+Plugin Name: Plugin Boilerplate
 Description: Description
 Author: underDEV
 Author URI: http://underdev.it
